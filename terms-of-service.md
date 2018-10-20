@@ -14,16 +14,16 @@
 
 	You are expressly and emphatically restricted from all of the following:
 
-	1. Publishing any Website material in any media;
-	2. Selling, sublicensing and/or otherwise commercializing any Website material;
-	3. Publicly performing and/or showing any Website material;
-	4. Using this Website in any way that is, or may be, damaging to this Website;
-	5. Using this Website in any way that impacts user access to this Website;
-	6. Using this Website contrary to applicable laws and regulations, or in a way that causes, or may cause, harm to the Website, or to any person or business entity;
-	5. Engaging in any data mining, data harvesting, data extracting or any other similar activity in relation to this Website, or while using this Website;
-	8. Using this Website to engage in any advertising or marketing;
-	9. Certain areas of this Website are restricted from access by you and Joyquip may further restrict access by you to any areas of this Website, at any time, in its sole and absolute discretion. 
-	10. Any user ID and password you may have for this Website are confidential and you must maintain confidentiality of such information.
+	1. publishing any Website material in any media;
+	2. selling, sublicensing and/or otherwise commercializing any Website material;
+	3. publicly performing and/or showing any Website material;
+	4. using this Website in any way that is, or may be, damaging to this Website;
+	5. using this Website in any way that impacts user access to this Website;
+	6. using this Website contrary to applicable laws and regulations, or in a way that causes, or may cause, harm to the Website, or to any person or business entity;
+	5. engaging in any data mining, data harvesting, data extracting or any other similar activity in relation to this Website, or while using this Website;
+	8. using this Website to engage in any advertising or marketing;
+	9. certain areas of this Website are restricted from access by you and Joyquip may further restrict access by you to any areas of this Website, at any time, in its sole and absolute discretion. 
+	10. any user ID and password you may have for this Website are confidential and you must maintain confidentiality of such information.
 
 4. No Warranties
 
